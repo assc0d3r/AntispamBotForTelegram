@@ -7,7 +7,7 @@ You can deploy it on your own computer, on your server, or on services like Repl
 To use the bot, create a bot using @BotFather, obtain a token, and paste it into this code. Additionally, add the bot to your Telegram group as an administrator and grant it rights to delete messages and exclude users from the group.
 
 # Анти-спам бот для Telegram
-Это простой антиспам-бот на Python, который удаляет сообщения и блокирует пользователей на основе списка стоп-слов, которые вы можете настроить сами.
+Это простой антиспам-бот на Python, который удаляет сообщения и блокирует пользователей на основе списка стоп-слов, который вы можете дополнить сами.
 Бот выбирает сообщение с запрещенными словами из стоп-листа, удаляет сообщение и банит пользователя
 Вы можете развернуть его на своем компьютере, на своем сервере или на сервисах, таких как Replit.
 
