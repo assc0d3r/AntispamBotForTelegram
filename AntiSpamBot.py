@@ -1,7 +1,7 @@
 import telebot
 
 # Создаем объект бота
-bot = telebot.TeleBot("6436164714:AAHvOEya9pU9a6bK8the9vhUvQNX5C2OgXY")
+bot = telebot.TeleBot("6436164714:AAEHjIv2N7TV-fa8TqnJORi8g3-qQhb32Bc")
 
 # Список стоп-слов
 with open('stop_words.txt', 'r') as f:
